@@ -1,0 +1,16 @@
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\bin\Debug\net5.0\listarAlunos.exe
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\bin\Debug\net5.0\listarAlunos.deps.json
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\bin\Debug\net5.0\listarAlunos.runtimeconfig.json
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\bin\Debug\net5.0\listarAlunos.runtimeconfig.dev.json
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\bin\Debug\net5.0\listarAlunos.dll
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\bin\Debug\net5.0\ref\listarAlunos.dll
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\bin\Debug\net5.0\listarAlunos.pdb
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.csproj.AssemblyReference.cache
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.AssemblyInfoInputs.cache
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.AssemblyInfo.cs
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.csproj.CoreCompileInputs.cache
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.dll
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\ref\listarAlunos.dll
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.pdb
+C:\Users\sektor\Desktop\AVANADE\listarAlunos\obj\Debug\net5.0\listarAlunos.genruntimeconfig.cache
